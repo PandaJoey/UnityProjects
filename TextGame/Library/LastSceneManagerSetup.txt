@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TextGame.unity
+  isLoaded: 1
+  isActive: 1
